@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7440 64-bit)  (format=lualatex 2020.6.27)  29 JUL 2020 16:27
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7440 64-bit)  (format=lualatex 2020.6.27)  31 JUL 2020 14:47
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -749,34 +749,41 @@ al(0)/m/n/12 : In-for-ma-ções. [S. l.], 2020. Dis-po-ní-vel em: http://www.si
 -
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
 
 warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 [1]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
+Overfull \hbox (1.68968pt too wide) in paragraph at lines 39--40
+[]\TU/Arial(0)/m/n/12 IA-PAR (PR). \TU/Arial(0)/b/n/12 Pro-grama Fru-ti-cul-tura
+\TU/Arial(0)/m/n/12 : Ci-tri-cul-tura. [S. l.], 2020. Dis-po-ní-vel em: http://
+w-
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 49.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 49.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 49.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 49.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: B9C1E2999693CE665F28EAD73459B6C5;103.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 35.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
 )
 
 Here is how much of LuaTeX's memory you used:
- 15646 strings out of 480883
+ 15647 strings out of 480883
  100000,794899 words of node,token memory allocated
  554 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 1 dir, 5 glue, 4 kern, 1 glyph, 10 attribute, 57 gl
 ue_spec, 7 attribute_list, 1 write nodes
-   avail lists: 1:1,2:205,3:48,4:6,5:44,6:12,7:3582,8:7,9:71,10:5,11:386
+   avail lists: 1:1,2:179,3:44,4:20,5:57,6:12,7:4095,8:6,9:74,10:14,11:453
  32823 multiletter control sequences out of 65536+200000
  69 fonts using 18234955 bytes
- 52i,4n,85p,706b,755s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 52i,4n,85p,742b,836s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/ariali.ttf><C:/WINDOWS/Fonts/arial.ttf><C:/WINDOWS/Fonts/arial
 bd.ttf>
-Output written on main.pdf (2 pages, 92551 bytes).
+Output written on main.pdf (3 pages, 95975 bytes).
 
-PDF statistics: 47 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 131072)
+PDF statistics: 51 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 131072)
  9 words of extra memory for PDF output out of 10000 (max. 100000000)
 
