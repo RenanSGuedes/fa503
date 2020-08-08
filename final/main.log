@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7440 64-bit)  (format=lualatex 2020.6.27)  31 JUL 2020 14:47
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7440 64-bit)  (format=lualatex 2020.6.27)  8 AUG 2020 17:59
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -743,30 +743,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--15
 [1
 
 {C:/Users/renan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
-Overfull \hbox (8.69925pt too wide) in paragraph at lines 19--20
+Overfull \hbox (8.69925pt too wide) in paragraph at lines 21--22
 []\TU/Arial(0)/m/n/12 UFPR. Si-me-par. \TU/Arial(0)/b/n/12 Alerta Ge-ada\TU/Ari
 al(0)/m/n/12 : In-for-ma-ções. [S. l.], 2020. Dis-po-ní-vel em: http://www.si
 -
  []
 
 
+Overfull \hbox (1.09378pt too wide) in paragraph at lines 29--30
+\TU/Arial(0)/m/n/12 Ru-ral. You-Tube: [s. n.], 2019. Dis-po-ní-vel em: https://
+www.you-tube.com/watch?v=A0Il-
+ []
+
+
 warning  (pdf backend): ignoring duplicate destination with the name 'page.1'
 [1]
-Overfull \hbox (1.68968pt too wide) in paragraph at lines 39--40
+Overfull \hbox (1.68968pt too wide) in paragraph at lines 48--49
 []\TU/Arial(0)/m/n/12 IA-PAR (PR). \TU/Arial(0)/b/n/12 Pro-grama Fru-ti-cul-tura
 \TU/Arial(0)/m/n/12 : Ci-tri-cul-tura. [S. l.], 2020. Dis-po-ní-vel em: http://
 w-
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 49.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 49.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 49.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 49.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: B9C1E2999693CE665F28EAD73459B6C5;103.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
 )
 
 Here is how much of LuaTeX's memory you used:
@@ -775,13 +781,13 @@ Here is how much of LuaTeX's memory you used:
  554 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 1 dir, 5 glue, 4 kern, 1 glyph, 10 attribute, 57 gl
 ue_spec, 7 attribute_list, 1 write nodes
-   avail lists: 1:1,2:179,3:44,4:20,5:57,6:12,7:4095,8:6,9:74,10:14,11:453
+   avail lists: 1:1,2:169,3:39,4:20,5:60,6:12,7:3844,8:5,9:70,10:14,11:427
  32823 multiletter control sequences out of 65536+200000
  69 fonts using 18234955 bytes
- 52i,4n,85p,742b,836s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 52i,4n,85p,761b,832s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/ariali.ttf><C:/WINDOWS/Fonts/arial.ttf><C:/WINDOWS/Fonts/arial
 bd.ttf>
-Output written on main.pdf (3 pages, 95975 bytes).
+Output written on main.pdf (3 pages, 97560 bytes).
 
 PDF statistics: 51 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 131072)
