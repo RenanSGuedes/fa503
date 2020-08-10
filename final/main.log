@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7440 64-bit)  (format=lualatex 2020.6.27)  8 AUG 2020 17:59
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7440 64-bit)  (format=lualatex 2020.6.27)  10 AUG 2020 11:29
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -787,7 +787,7 @@ ue_spec, 7 attribute_list, 1 write nodes
  52i,4n,85p,761b,832s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/WINDOWS/Fonts/ariali.ttf><C:/WINDOWS/Fonts/arial.ttf><C:/WINDOWS/Fonts/arial
 bd.ttf>
-Output written on main.pdf (3 pages, 97560 bytes).
+Output written on main.pdf (3 pages, 97562 bytes).
 
 PDF statistics: 51 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 131072)
